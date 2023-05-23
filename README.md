@@ -1,4 +1,4 @@
-### Hi there 👋
+### 𝓑𝓲𝓮𝓷𝓿𝓮𝓷𝓲𝓭𝓸𝓼
 
 <!--
 **amzita/amzita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
